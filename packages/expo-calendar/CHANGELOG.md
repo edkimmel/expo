@@ -11,6 +11,8 @@
 
 ### 🐛 Bug fixes
 
+- [Android] Fixed retrieving recurrence rules information.
+
 ### 💡 Others
 
 - [Android] Refactored module native code. ([#40548](https://github.com/expo/expo/pull/40548) by [@barthap](https://github.com/barthap))
